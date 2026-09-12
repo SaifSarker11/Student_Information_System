@@ -35,6 +35,3 @@ The portal emphasizes a sleek, glass‑morphism style, vibrant gradients, and mi
 3. Run the dev server: `npm run dev`.
 4. Visit `http://localhost:5173` to explore the portal.
 
-## License
-
-MIT License
