@@ -1,0 +1,6 @@
+{
+  "name": "Stanford Axess Flow Video Generator",
+  "description": "Generate and export cinematic walkthrough videos and interactive UX flows for the Stanford Axess Mobile student portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
