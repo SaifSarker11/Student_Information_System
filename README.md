@@ -1,6 +1,6 @@
 # Stanford Axess Student Portal
 
-![Student Portal Preview](file:///Users/saifsarker/Desktop/SIS/Student_Information_System/src/assets/images/stanford_axess_flow_architecture.png)
+![Student Portal Preview](src/assets/images/stanford_axess_flow_architecture.png)
 
 Explore the interactive demo: [Stanford Axess Flow Video Generator](https://stanford-axess-flow-video-generator.ai.studio/)
 
